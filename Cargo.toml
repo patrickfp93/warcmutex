@@ -6,7 +6,7 @@ authors = ["PFP <patrickfp93@gmail.com>"]
 description = "A crate in Rust that provides an attribute macro for mods, structs and impls. Rewrite code using under the hood asynchronous reference (Arc) and asynchronous mutation (Mutex) control elements."
 license = "MIT"
 repository = "https://github.com/patrickfp93/warcmutex"
-keywords = ["macro", "attribute", "wrapper","crate", "async", "asynchronous", "mutex", "atomic", "concurrency", "multithreading", "thread-safe", "synchronization", "parallelism", "lock", "concurrent", "async-await", "reference", "thread-safety", "data", "sharing"]
+keywords = ["macro", "attribute", "async", "arc","mutex" ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
