@@ -1,10 +1,11 @@
 [package]
 name = "warcmutex"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["PFP <patrickfp93@gmail.com>"]
 description = "A crate in Rust that provides an attribute macro for mods, structs and impls. Rewrite code using under the hood asynchronous reference (Arc) and asynchronous mutation (Mutex) control elements."
 license = "MIT"
+repository = "https://github.com/patrickfp93/warcmutex"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
